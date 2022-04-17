@@ -5,11 +5,16 @@ A Modern introduction web page with top navigation dropdown options
 This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Screenshot
-
+![image](https://user-images.githubusercontent.com/50958126/163703738-9b718ec5-b050-4605-8823-1aea66728b0f.png)
+![image](https://user-images.githubusercontent.com/50958126/163703769-6dfc58ff-9b17-433a-837c-fb4e6793e5b8.png)
+![image](https://user-images.githubusercontent.com/50958126/163703775-fe7a1909-2d1c-46d9-9053-fe0555b08189.png)
+![image](https://user-images.githubusercontent.com/50958126/163703758-ac9dce36-b820-4c75-9db0-a676dfe5ad6f.png)
+![image](https://user-images.githubusercontent.com/50958126/163703810-000e08df-0ab5-4699-b71e-ae0b75dc1681.png)
+![image](https://user-images.githubusercontent.com/50958126/163703830-ec546091-e926-497d-904e-d2601f2a5dec.png)
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/LiyanNguyen/intro-section-dropdown
+- Live Site URL: https://liyannguyen.github.io/intro-section-dropdown
 
 ### My Process
 - Design the Desktop Viewport first, then the Mobile viewport
