@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Intro Section Dropdown</title>
+	<link rel="stylesheet" href="index.css">
+	<link rel="icon" href="images/favicon-32x32.png">
+</head>
+<body>
+	<main>
+		<div class="mobileDarkLayer"></div>
+		<aside>
+			<img id="mobileCloseMenu" src="images/icon-close-menu.svg" alt="">
+			<ul>
+				<li id="mobileFeatures">Features&nbsp;&nbsp;
+					<span></span>
+					<ul id="mobileFeaturesList">
+						<li><img src="images/icon-todo.svg" alt="">Todo List</li>
+						<li><img src="images/icon-calendar.svg" alt="">Calendar</li>
+						<li><img src="images/icon-reminders.svg" alt="">Reminders</li>
+						<li><img src="images/icon-planning.svg" alt="">Planning</li>
+					</ul>
+				</li>
+				<li id="mobileCompany">Company&nbsp;&nbsp;
+					<span></span>
+					<ul id="mobileCompanyList">
+						<li>History</li>
+						<li>Our Team</li>
+						<li>Blog</li>
+					</ul>
+				</li>
+				<li>Careers</li>
+				<li>About</li>
+			</ul>
+		</aside>
+		<nav>
+			<ul class="leftSideNav">
+				<img src="images/logo.svg" alt="">
+				<li id="features">Features&nbsp;&nbsp;
+					<span></span>
+					<div class="featuresDropDown">
+						<ul>
+							<li><img src="images/icon-todo.svg" alt="">Todo List</li>
+							<li><img src="images/icon-calendar.svg" alt="">Calendar</li>
+							<li><img src="images/icon-reminders.svg" alt="">Reminders</li>
+							<li><img src="images/icon-planning.svg" alt="">Planning</li>
+						</ul>
+					</div>
+				</li>
+				<li id="company">Company&nbsp;&nbsp;
+					<span></span>
+					<div class="companyDropDown">
+						<ul>
+							<li>History</li>
+							<li>Our Team</li>
+							<li>Blog</li>
+						</ul>
+					</div>
+				</li>
+				<li>Careers</li>
+				<li>About</li>
+			</ul>
+			<div class="rightSideNav">
+				<img id="burgerMenu" src="images/icon-menu.svg" alt="">
+				<a href="#">Login</a>
+				<button>Register</button>
+			</div>
+		</nav>
+		<section>
+			<div class="textSection">
+				<h1>Make remote work</h1>
+				<p>Get your team in sync, no matter your location. Streamline processes, create team rituals, and watch productivity soar.</p>
+				<button>Learn more</button>
+				<div class="brandImages">
+					<img src="images/client-databiz.svg" alt="">
+					<img src="images/client-audiophile.svg" alt="">
+					<img src="images/client-meet.svg" alt="">
+					<img src="images/client-maker.svg" alt="">
+				</div>
+			</div>
+			<div class="heroImgSection">
+				<picture>
+					<source media="(max-width:450px)" srcset="images/image-hero-mobile.png">
+					<img src="images/image-hero-desktop.png">
+				</picture>
+			</div>
+		</section>
+	</main>
+	<script src="index.js"></script>
+</body>
+</html>
